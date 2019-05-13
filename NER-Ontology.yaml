@@ -1,0 +1,85 @@
+Ontology:
+        - Person :
+          -اشخاص سیاسی :
+             مجلس شورای اسلامی : Con 
+             مجمع تشخیص مصلحت نظام : Maj
+             دیوان محاسبات کشور : Div
+             سازمان بازرسی کل کشور : Baz
+             دیوان عدالت اداری : Eda
+             دیوان عالی کشور : Ali
+              خبرگان : Khob
+              شورای نگهبان : Neg
+              شورای شهر : Shahr
+              شورای روستا :	Ros	
+              شورای عشایر : Ash	
+              شورای عالی امنیت ملی : Amn
+              شورای نظارت صدا و سیما : IRIB
+              رئیس جمهور و هیئت دولت : Per
+          - اشخاص فرهنگی : 
+              موسیقیدان : Mus
+              نویسندگان  : Auth
+              بازیگران  : Act
+              اشخاص ورزشی : sport
+          - اشخاص علمی :
+              اعضا هیات علمی : SCI
+        - Organization:
+           سازمان خصوصی: Pri
+           سازمان های دولتی : Gov 
+           ارگان ها : Org
+           وزارتخانه : Min
+           بیمارستان : Hos
+           سینما: Cin
+           بانک : Ban   
+        - DateTime:
+            شمسی : shamsi
+            قمری : lun 
+            میلادی : ad
+            روز : day 
+            ماه : mon 
+            هفته : week 
+        - Event :
+           سیاسی : Political
+          	علمی :	Scientist	
+           فرهنگی : Cultural
+           اقتصادی: Economic 
+           بحران : Disaster
+        - Brand :
+            برند کالای دیجیتال : Dij
+            برند کالای لوکس : Lux
+            برند کالاهای داخلی: Int
+            برند صنعتی : Ind
+        - Misk :
+            متفرقه : Mis
+        - Money :
+          واحد پول : mony
+
+        - Location:
+          دانشگاه: Uni
+          اماکن توریستی: Tour 
+          هتل -اقامتگاه : Hotel
+          تاریخی : His
+          کشور : con
+          شهرهای داخلی : IntCity  
+          شهرهای خارجی : ExtCity
+
+        - SportTime:
+           تیم داخلی : Intsport 
+           تیم خارجی: Extsport 
+
+        - Gender:
+           زنان : wom
+           مردان : men
+
+        - Animal:
+          حیوانات : Ani
+
+        - Agriculture:
+          محصولات کشاورزی : Agri 
+          
+        - Phrase :
+          تکیه کلام : Slang
+          اصطلاحات رایج : coolphrase
+
+
+        
+        
